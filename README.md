@@ -1,16 +1,35 @@
-## Hi there 👋
+# n8n Automation Portfolio
 
-<!--
-**anyadict/Anyadict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains automation projects built with n8n.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Student Registration Automation
+- Webhooks
+- Google Sheets
+- Gmail
+- Telegram
+- JSON Validation
+
+### HR Recruitment Automation
+- Applicant Processing
+- Google Sheets
+- Switch Logic
+- JavaScript Code Node
+- Gmail
+- Telegram
+
+### Weather API Automation
+- HTTP Request
+- REST API
+- JSON Processing
+
+## Technologies
+
+- n8n
+- JavaScript
+- REST API
+- Google Sheets
+- Gmail
+- Telegram
+- HTTP Requests
